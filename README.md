@@ -1,1 +1,3 @@
 # pygame
+
+## install pygame 
